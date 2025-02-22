@@ -1,0 +1,9 @@
+elasticsearch
+streamlit
+confluent_kafka
+pyspark
+pymongo
+plotly
+alpha-vantage
+pandas
+textblob
